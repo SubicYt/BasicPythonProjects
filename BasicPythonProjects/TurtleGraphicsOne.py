@@ -1,4 +1,16 @@
 #   a114_nested_loops_4.py 
+"""
+
+
+Python Project made with turtle graphics.
+It was an existing program that was modified to run infinitly, 
+Thus why the user needs to input zero in order to put it
+in an infinite loop. 
+
+Comments are minimal, sorry about that
+- Ethan Denning
+
+"""
 import turtle as trtl
 painter = trtl.Turtle()
 painter.penup()
